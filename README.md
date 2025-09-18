@@ -1,7 +1,7 @@
 # Active Directory Setup
 
 
-#Installing the domain controller
+# Installing the domain controller
 
 1. sconfig to:
     - Change the hostname
